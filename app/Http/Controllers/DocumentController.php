@@ -69,6 +69,6 @@ class DocumentController extends Controller
     // Do not change the following methods
     private function process()
     {
-        // sleep(5);
+         sleep(5);
     }
 }
